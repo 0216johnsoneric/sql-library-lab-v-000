@@ -25,7 +25,7 @@ CREATE TABLE books (
 
 CREATE TABLE characters (
     id INTEGER PRIMARY KEY,
-    title TEXT,
+    name TEXT,
     year INTEGER,
     series_id INTEGER
 
